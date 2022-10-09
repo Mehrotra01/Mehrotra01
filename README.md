@@ -1,4 +1,4 @@
-<h1 align="center">Hey Folks</h1><h4> <em>as you know <Strong>Harsh Mehrotra</Strong></em></h4>
+<h1 align="center">Hey Folks</h1><h4 align="right"> <em>as you know <Strong>Harsh Mehrotra</Strong></em></h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrotra01&label=Profile%20views&color=0e75b6&style=flat" alt="mehrotra01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehrotra01" alt="mehrotra01" /></a> </p>
