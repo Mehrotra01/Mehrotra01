@@ -13,16 +13,18 @@
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mehrotra01&theme=dark&hide_border=true" alt="mehrotra01" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mehrotra01&show_icons=true&theme=gruvbox&hide_border=true&locale=en" alt="mehrotra01" /><br></p>  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehrotra01&show_icons=true&theme=gruvbox&hide_border=true&locale=en&layout=compact" alt="mehrotra01" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mehrotra01&show_icons=true&theme=gruvbox&hide_border=true&locale=en" alt="mehrotra01" /><br></p>  
 
 
 
