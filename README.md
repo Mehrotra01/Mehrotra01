@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harsh Mehrotra</h1>
-<h3 align="center">A passionate developer <p align="right"> <img src="https://komarev.com/ghpvc/?username=mehrotra01&label=Viewed%20by&color=d79921&style=flat-square" alt="mehrotra01" /> </p></h3>
+<h3 align="center">A passionate developer and a Learner <p align="right"> <img src="https://komarev.com/ghpvc/?username=mehrotra01&label=Viewed%20by&color=d79921&style=flat-square" alt="mehrotra01" /> </p></h3>
 
+<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
+- 🌱 I’m currently learning **DSA and React and other new Tech.**
+
+- 💬 Ask me about **React, js**
+
+- 📫 How to reach me **harshmehrotra01@gmail.com**
+
+- ⚡ Fun fact **Coding can “power up” your brain**
 
 
 <br>
@@ -31,9 +39,10 @@
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://dev.to/mehrotra01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mehrotra01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsh-mehrotra-8040b6213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-mehrotra-8040b6213" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20399205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20399205" height="30" width="40" /></a>
+<a href="https://instagram.com/harshmehrotraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshmehrotraa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/h_201500270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h_201500270" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mehrotra01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehrotra01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/harshmehrotra01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshmehrotra01" height="30" width="40" /></a>
 </p>
-
