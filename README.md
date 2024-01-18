@@ -2,6 +2,8 @@
 <h3 align="center">A passionate developer and a Learner <p align="right"> <img src="https://komarev.com/ghpvc/?username=mehrotra01&label=Viewed%20by&color=d79921&style=flat-square" alt="mehrotra01" /> </p></h3>
 
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<br>
+
 
 - 🌱 I’m currently learning **DSA and React and other new Tech.**
 
@@ -10,6 +12,8 @@
 - 📫 How to reach me **harshmehrotra01@gmail.com**
 
 - ⚡ Fun fact **Coding can “power up” your brain**
+
+<br>
 
 
 <br>
