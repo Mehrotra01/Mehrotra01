@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Mehrotra</h1>
 <h3 align="center">A passionate developer and a Learner <p align="right"> <img src="https://komarev.com/ghpvc/?username=mehrotra01&label=Viewed%20by&color=d79921&style=flat-square" alt="mehrotra01" /> </p></h3>
 
-<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="coding" width="450" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3p0cm41Znh4bHZibmw1YTlwZXllcjlhb2h1ZDVpemNmaGg1bHJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <br>
 
 
@@ -50,3 +50,11 @@
 <a href="https://www.leetcode.com/mehrotra01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehrotra01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/harshmehrotra01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshmehrotra01" height="30" width="40" /></a>
 </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img align="right" alt="coding" width="450" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVuNXBodm5nY2EydXB3aDYwYnM3d3F2YXR3YjZ4YTN6YXdjc2RlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
