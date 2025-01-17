@@ -55,9 +55,11 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 <div>
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mehrotra01&show_icons=true&theme=gruvbox&hide_border=true&locale=en" alt="mehrotra01" /><br></div>  
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mehrotra01&show_icons=true&theme=gruvbox&hide_border=true&locale=en" alt="mehrotra01" /></div>  
 <div>
 <h3 align="right">Connect with me:</h3>
 <div align="right" style="display: flex; align-items: flex-en">
