@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Mehrotra</h1>
 <h3 align="center">A passionate developer and a Learner <p align="right"> <img src="https://komarev.com/ghpvc/?username=mehrotra01&label=Viewed%20by&color=d79921&style=flat-square" alt="mehrotra01" /> </p></h3>
 
-<img align="right" alt="coding" width="450" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3p0cm41Znh4bHZibmw1YTlwZXllcjlhb2h1ZDVpemNmaGg1bHJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="450" height="250" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif">
 
 
 ```markdown
