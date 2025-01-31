@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harsh Mehrotra</h1>
-<h3 align="center">A passionate developer and a Learner <p align="right"> <img src="https://komarev.com/ghpvc/?username=mehrotra01&label=Viewed%20by&color=d79921&style=flat-square" alt="mehrotra01" /> </p></h3>
+//<h1 align="center">Hi 👋, I'm Harsh Mehrotra</h1>
+[#]<h3 align="center">A passionate developer and a Learner <p align="right"> <img src="https://komarev.com/ghpvc/?username=mehrotra01&label=Viewed%20by&color=d79921&style=flat-square" alt="mehrotra01" /> </p></h3>
 
 
 <img align="right" alt="coding" width="450" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVuNXBodm5nY2EydXB3aDYwYnM3d3F2YXR3YjZ4YTN6YXdjc2RlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
